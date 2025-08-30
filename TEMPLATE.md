@@ -16,11 +16,11 @@ timestamp: "2025-08-30"
 ## Project
 
 ### Name & Category
-- **Project**: NodeLink
+- **Project**: InfraSound
 - **Category**: infrastructure
 
 ### Description
-NodeLink is a decentralized infrastructure layer that makes it easy for developers to access and manage blockchain nodes across multiple networks. It solves the problem of fragmented and unreliable RPC endpoints by providing a Soundness Layer (SL)-verified, decentralized node marketplace where developers can:
+InfraSound is a decentralized infrastructure layer that makes it easy for developers to access and manage blockchain nodes across multiple networks. It solves the problem of fragmented and unreliable RPC endpoints by providing a Soundness Layer (SL)-verified, decentralized node marketplace where developers can:
 
 Request verified RPC access
 Monitor reliability and uptime
@@ -64,11 +64,10 @@ Node providers connect their infra through a lightweight SDK.
 - [User testing with first node operators ] User testing
 
 ## Innovation
-Unlike traditional node providers, NodeLink offers verifiable and trustless guarantees for uptime and reliability. By integrating SL, it prevents “black-box” RPC issues and builds an open marketplace where developers and providers interact transparently.
+Unlike traditional node providers,InfraSound offers verifiable and trustless guarantees for uptime and reliability. By integrating SL, it prevents “black-box” RPC issues and builds an open marketplace where developers and providers interact transparently.
 
 ### Contact
 @zakiser13
-
 
 **Checklist before submitting:**
 - [✓] All fields completed
